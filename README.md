@@ -6,6 +6,8 @@
 ### Project Overview
 The city of Boston seeks a comprehensive understanding of the nature and distribution of animal-related complaints reported by its residents. This respository collects data collected through the city's 311 reporting system to provide an in-depth analysis of animal complaints, encompassing their frequency, types, locations, and potential influencing factors such as seasonality and weather. This project will assist the city in optimizing resource allocation, developing targeted interventions, and enhancing its responsiveness to animal-related concerns.
 
+#### Some Interested Visuals. Look at the Deliverable folder for more!
+![animal_dist_by_type](https://github.com/mar19a/CityOfBoston311/assets/84360137/420df20d-cf10-46eb-a6bf-50e2292cf2b8) ![heatmap_animal_reports_by_zip_and_year-2](https://github.com/mar19a/CityOfBoston311/assets/84360137/6b0a0c35-f4dd-48b0-af97-eda7b52611c7) ![StormComplaints](https://github.com/mar19a/CityOfBoston311/assets/84360137/334370f1-d4c5-41bd-ba59-65f83015964d) ![Figure_3 (1)](https://github.com/mar19a/CityOfBoston311/assets/84360137/567da0a3-9db2-4218-9147-6894f15ab62c) ![Figure_2](https://github.com/mar19a/CityOfBoston311/assets/84360137/c923de5a-e88a-47f3-b826-958169b68d40)
 
 ### Repository Structure
 
