@@ -1,6 +1,6 @@
 # Boston 311 Animal Reports
 
-## TEAM C: Eric Gaudreau, Raghu Nema, Mariano Amaya, Sam Dvorin, Shangyuan Chen
+## Mariano Amaya, Eric Gaudreau, Raghu Nema, Sam Dvorin, Shangyuan Chen
 
 
 ### Project Overview
@@ -31,7 +31,7 @@ The city of Boston seeks a comprehensive understanding of the nature and distrib
 - - zipcode.py creates csv containing the year, location_zipcode, animal type, and count
 - - visualizeanimal.py, overalltop5.py, and deeper.py all help visualize the the types of different animals over the years
 - Graphics folder contains all graphics
-- There is also a copy of our Mid Semester Presentation
+- There is also a copy of our Mid Presentation
 
 #### Final Report
 - Code folder contains all python files
