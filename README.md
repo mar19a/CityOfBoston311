@@ -53,6 +53,4 @@ The city of Boston seeks a comprehensive understanding of the nature and distrib
 
 
 ### GIT
-   git clone https://github.com/BU-Spark/ds-boston-311-animal-reports.git
-   cd ds-boston-311-animal-reports
-   cd sp24-team-c
+   git clone https://github.com/mar19a/CityOfBoston311.git
